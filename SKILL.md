@@ -3,8 +3,8 @@ name: maternal-god-meditation
 description: Reveal God's maternal nature for those who struggle with paternal imagery or need comfort, drawing on Julian of Norwich's theology of Christ as Mother. This practice heals wounded God-images and of...
 license: MIT
 metadata:
+  version: 1.0.4460
   author: sethmblack
-  version: 1.0.4459
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - maternal-god-meditation
